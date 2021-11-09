@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.resultContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.resultContainer li {
+  margin-bottom: 10px;
+}
